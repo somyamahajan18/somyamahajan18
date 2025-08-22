@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Somya Mahajan 👋
 
-<!--
-**somyamahajan18/somyamahajan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer. I love building web apps using Angular and Java.
 
-Here are some ideas to get you started:
+🌱 Currently learning advanced project management.
+💼 Experience: Wabtec Corporation, 2.5 years.
+📫 Reach me: somya.mahajan18@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Angular
+- Java
+- TypeScript
+- Project Management
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somyamahajan18&show_icons=true)
