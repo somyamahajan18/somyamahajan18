@@ -1,16 +1,19 @@
-# Hi there, I'm Somya Mahajan 👋
+# Hi there, I am <a href="https://somyamahajan.vercel.app/#contact" target="_blank">Somya Mahajan</a> 👋
 
-I'm a passionate Software Engineer. I love building web apps using Angular and Java.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somya-mahajan-84b66916a/)
 
-🌱 Currently learning advanced project management.
-💼 Experience: Wabtec Corporation, 2.5 years.
-📫 Reach me: somya.mahajan18@gmail.com
+I'm a passionate Software Engineer - Frontend Developer. I love building web apps using Angular and Typescript.
 
-## Skills
-- Angular
-- Java
-- TypeScript
-- Project Management
+🌱 Currently working as Software Engineer - FrontEnd Developer.
+👯 Looking to join a company with big and challenging projects.
+💼 Experience: Wabtec Corporation, 4 years.
+📫 Reach me: somya.mahajan18@gmail.com, +91-7814828738
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somyamahajan18&show_icons=true)
+<h3>My Skills</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,java,spring,postgresql,nodejs,tailwind,firebase,react,figma,js,mysql" />
+  </a>
+</p>
+
