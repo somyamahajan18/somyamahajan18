@@ -4,7 +4,7 @@
 
 I'm a passionate Software Engineer - Frontend Developer. I love building web apps using Angular and Typescript.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="350" height="300" />
 
 **Talking about Personal Stuffs:**
 
