@@ -4,10 +4,15 @@
 
 I'm a passionate Software Engineer - Frontend Developer. I love building web apps using Angular and Typescript.
 
-🌱 Currently working as Software Engineer - FrontEnd Developer.
-👯 Looking to join a company with big and challenging projects.
-💼 Experience: Wabtec Corporation, 4 years.
-📫 Reach me: somya.mahajan18@gmail.com, +91-7814828738
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+**Talking about Personal Stuffs:**
+
+
+- 🌱 Currently working as Software Engineer - FrontEnd Developer.
+- 👯 Looking to join a company with big and challenging projects.
+- 💼 Experience: Wabtec Corporation, 4 years.
+- 📫 Reach me: somya.mahajan18@gmail.com, +91-7814828738
 
 <h3>My Skills</h3>
 
