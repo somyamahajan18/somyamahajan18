@@ -12,9 +12,9 @@ I'm a passionate Software Engineer - Frontend Developer. I love building web app
 
 
 
-- 🌱 Currently working as Software Engineer - FrontEnd Developer.
+- 🌱 Experience as Software Engineer - FrontEnd/Full Stack Developer.
 - 👯 Looking to join a company with big and challenging projects.
-- 💼 Experience: Wabtec Corporation, 4 years.
+- 💼 Experience/Previous Company: Wabtec Corporation, 4 years.
 - 📫 Reach me: somya.mahajan18@gmail.com, +91-7814828738
 
 
