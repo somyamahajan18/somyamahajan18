@@ -4,7 +4,7 @@
 
 <h3>Glad to see you here!</h3>
 
-I'm a passionate a Frontend Developer. I love building web apps using Angular and Typescript.
+I'm a passionate Frontend Developer. I love building web apps using Angular and Typescript.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="350" height="250" />
 
@@ -12,9 +12,9 @@ I'm a passionate a Frontend Developer. I love building web apps using Angular an
 
 
 
-- 🌱 Current Role: Senior Software Engineer - FrontEnd.
+- 🌱 Current Role: Senior Software Engineer - FrontEnd - Netradyne.
 - 👯 Looking to join a company with big and challenging projects.
-- 💼 Experience/Previous Company: Wabtec Corporation, 4 years - Full Stack Dev - Software Engineer
+- 💼 Experience: 4 years - Full Stack Dev - Angular, JAVA.
 - 📫 Reach me: somya.mahajan18@gmail.com, +91-7814828738
 
 
