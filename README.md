@@ -4,7 +4,7 @@
 
 <h3>Glad to see you here!</h3>
 
-I'm a passionate Software Engineer - Frontend Developer. I love building web apps using Angular and Typescript.
+I'm a passionate a Frontend Developer. I love building web apps using Angular and Typescript.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="350" height="250" />
 
@@ -12,9 +12,9 @@ I'm a passionate Software Engineer - Frontend Developer. I love building web app
 
 
 
-- 🌱 Experience as Software Engineer - FrontEnd/Full Stack Developer.
+- 🌱 Current Role: Senior Software Engineer - FrontEnd.
 - 👯 Looking to join a company with big and challenging projects.
-- 💼 Experience/Previous Company: Wabtec Corporation, 4 years.
+- 💼 Experience/Previous Company: Wabtec Corporation, 4 years - Full Stack Dev - Software Engineer
 - 📫 Reach me: somya.mahajan18@gmail.com, +91-7814828738
 
 
@@ -24,7 +24,7 @@ I'm a passionate Software Engineer - Frontend Developer. I love building web app
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,java,spring,postgresql,nodejs,tailwind,firebase,react,figma,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,angular,angularJS, JIRA,java,spring,postgresql,nodejs,tailwind,firebase,react,figma,js,mysql" />
   </a>
 </p>
 
