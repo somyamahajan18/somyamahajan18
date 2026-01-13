@@ -1,6 +1,7 @@
 # Hi there, I am <a href="https://somyamahajan.vercel.app/#contact" target="_blank">Somya Mahajan</a> 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somya-mahajan-84b66916a/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somya-mahajan-84b66916a/)
 
 <h3>Glad to see you here!</h3>
 
