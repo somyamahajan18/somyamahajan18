@@ -24,7 +24,7 @@ I'm a passionate Frontend Developer. I love building web apps using Angular and 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,angularJS, JIRA,java,spring,postgresql,nodejs,tailwind,firebase,react,figma,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,angular,java,spring,postgresql,nodejs,tailwind,firebase,react,figma,js,mysql" />
   </a>
 </p>
 
