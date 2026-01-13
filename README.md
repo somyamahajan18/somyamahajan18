@@ -13,7 +13,7 @@ I'm a passionate Frontend Developer. I love building web apps using Angular and 
 
 
 - 🌱 Current Role: Senior Software Engineer - FrontEnd - Netradyne.
-- 👯 Looking to join a company with big and challenging projects.
+- 👯 Looking to join a company to work on big projects and managing team + Scrum work.
 - 💼 Experience: 4 years - Full Stack Dev - Angular, JAVA.
 - 📫 Reach me: somya.mahajan18@gmail.com, +91-7814828738
 
